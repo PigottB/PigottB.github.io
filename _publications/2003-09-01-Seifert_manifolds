@@ -1,0 +1,22 @@
+---
+title: "The integral homology of orientable Seifert manifolds"
+collection: publications
+permalink: /publication/2003-09-01-Seifert_manifolds
+excerpt: 'For any orientable Seifert manifold $M$, the integral homology group $H_{1}(M) = H_{1}(M;\mathbb{Z})$ is computed and explicit generators are found. This calculation gives a presentation for the $p$-torsion of $H_{1}(M)$ for any prime $p$. Since Seifert manifolds have dimension $3$, $H_{1}(M)$ determines 
+$H_{\ast}(M;A)$ and $H^{\ast}(M;A)$ as well, for any abelian group $A$. The complete details are given when $A = \mathbb{Z},\mathbb{Z}/p^{s}$.
+
+In order to calculate the partition functions of the Dijkgraaf–Witten topological quantum field theories it is necessary to compute the linking form of the underlying $3$-manifold. In the case of the orientable Seifert manifolds it is possible to compute the linking form. The calculation of the linking form involves finding a presentation of the torsion of the first integral homology of the orientable Seifert manifolds, which is the main result of this paper.'
+date: 2003-09-01
+venue: 'Topology and Its Applications'
+paperurl: 'https://doi.org/10.1016/S0166-8641(02)00062-7'
+citation: 'J. Bryden, T. Lawson, B. Pigott, and P. Zvengrowski, &quot;The integral homology of orientable Seifert manifolds.&quot; <i>Topology Appl.</i>. 127 (1-2) (2003).'
+---
+For any orientable Seifert manifold $M$, the integral homology group $H_{1}(M) = H_{1}(M;\mathbb{Z})$ is computed and explicit generators are found. This calculation gives a presentation for the $p$-torsion of $H_{1}(M)$ for any prime $p$. Since Seifert manifolds have dimension $3$, $H_{1}(M)$ determines 
+$H_{\ast}(M;A)$ and $H^{\ast}(M;A)$ as well, for any abelian group $A$. The complete details are given when $A = \mathbb{Z},\mathbb{Z}/p^{s}$.
+
+In order to calculate the partition functions of the Dijkgraaf–Witten topological quantum field theories it is necessary to compute the linking form of the underlying $3$-manifold. In the case of the orientable Seifert manifolds it is possible to compute the linking form. The calculation of the linking form involves finding a presentation of the torsion of the first integral homology of the orientable Seifert manifolds, which is the main result of this paper.
+
+
+[Link to Journal](https://doi.org/10.1016/S0166-8641(02)00062-7)
+
+J. Bryden, T. Lawson, B. Pigott, and P. Zvengrowski, &quot;The integral homology of orientable Seifert manifolds.&quot; <i>Topology Appl.</i>. 127 (1-2) (2003).
