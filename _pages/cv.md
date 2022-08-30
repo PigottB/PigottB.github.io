@@ -88,6 +88,7 @@ Conferences and Workshops
 * Southeastern-Atlantic Regional Conference on Differential Equations (SEARCDE), Wake Forest University, Winston-Salem NC, USA (October 2012) (co-organized with S. Raynor and S. Robinson)
 
 **Conferences Attended**
+* QHack 2022, Online conference on quantum computing (February 2022)
 * International Association for Mathematics and Computers in Simulation, Conference on Nonlinear Evolution equations and Wave Phenomena: Computation and Theory, Athens GA, USA (February 2019)
 * French-American Conference on Nonlinear Dispersive PDEs, Centre International de Recontres Mathématiques, Marseilles, FR (June 2017)
 * John H. Barrett Memorial Lectures, University of Tennessee, Knoxville, Knoxville TN, USA (May 2016)
