@@ -6,12 +6,12 @@ title: "Teaching"
 I have taught many courses during my career. I have taken on different roles including the coordination of several large courses at the University of Toronto. These experiences occurred across a range of institutions: University of Toronto, Georgian College, Wake Forest University, and Wofford College. A complete list of the courses that I've taught is available in my curriculum vitae.
 
 
-## Fall 2022
+## Fall 2024
 
-During the Fall 2022 semester I will be teaching the following courses:
-* MATH 140E Introduction to Statistics: MWF 13:00 - 13:50 in Olin 210
-* MATH 140F Introduction to Statistics: MWF 14:00 - 14:50 in Olin 210
-* MATH 446A Partial Differential Equations: MWF 10:30 - 11:20 in Olin 201
+During the Fall 2024 semester I will be teaching the following courses:
+* MATH 210A Multivariable Calculus: MWF 8:30-9:20 in Olin 210
+* MATH 210B Multivariable Calculus: MWF 13:00-13:50 in Olin 210
+* MATH 446A Partial Differential Equations: MWF 9:30-10:20 in Olin 210
 
 ## Undergraduate Research Projects
 
