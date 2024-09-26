@@ -37,6 +37,8 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
+    faraday-retry (2.2.1)
+      faraday (~> 2.0)
     ffi (1.17.0)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -260,15 +262,18 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (0.13.0)
+    webrick (1.8.2)
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  faraday-retry
   github-pages
   hawkins
   jekyll-feed
   jekyll-sitemap
+  webrick
 
 BUNDLED WITH
    2.3.5
