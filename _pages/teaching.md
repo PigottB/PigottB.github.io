@@ -5,12 +5,17 @@ title: "Teaching"
 
 I have taught many courses during my career. I have taken on different roles including the coordination of several large courses at the University of Toronto. These experiences occurred across a range of institutions: University of Toronto, Georgian College, Wake Forest University, and Wofford College. 
 
-## Fall 2024
+## Spring 2025
 
-During the Fall 2024 semester I will be teaching the following courses:
-* MATH 210A Multivariable Calculus: MWF 8:30-9:20 in Olin 210
-* MATH 210B Multivariable Calculus: MWF 13:00-13:50 in Olin 210
-* MATH 446A Partial Differential Equations: MWF 9:30-10:20 in Olin 210
+During the Spring 2025 semester I will be teaching the following courses:
+* MATH 181C Calculus I: MWF 10:30-11:20 in Olin 103
+* MATH 240A Ordinary Differential Equations: TR 9:30-10:50 in Olin 220
+* MATH 240B Ordinary Differential Equations: TR 13:00-14:20 in Olin 220
+
+I will also be supervising the following independent studies and honors courses:
+* MATH 480 Introduction to Quantum Computing
+* MATH 480 Bifurcation Theory of Burgers Equation
+* MATH 500 Distribution of Entanglement under a Universal Cloning Transformation
 
 ## Undergraduate Research Projects
 
