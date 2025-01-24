@@ -5,7 +5,7 @@ title: "Teaching"
 
 I have taught many courses during my career. I have taken on different roles including the coordination of several large courses at the University of Toronto. These experiences occurred across a range of institutions: University of Toronto, Georgian College, Wake Forest University, and Wofford College. 
 
-## Fall 2024
+## Spring 2025
 
 During the Spring 2025 semester I will be teaching the following courses:
 * MATH 181C Calculus I: MWF 10:30-11:20 in Olin 103
