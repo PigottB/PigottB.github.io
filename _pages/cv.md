@@ -13,6 +13,7 @@ redirect_from:
 Experience
 ======
 * **September 2021 - Present: Associate Professor of Mathematics, Wofford College**
+  * Department Chair (as of August 2025)
   * Research in Mathematical Analysis, Partial Differential Equations, Quantum Computing, Machine Learning
   * Taught courses in Calculus, Multivariable Calculus, Partial Differential Equations, Statistics
   * Served on various college committees
