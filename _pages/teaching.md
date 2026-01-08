@@ -7,19 +7,16 @@ I have taught many courses during my career. I have taken on different roles inc
 
 ## Spring 2025
 
-During the Spring 2025 semester I will be teaching the following courses:
-* MATH 181C Calculus I: MWF 10:30-11:20 in Olin 103
-* MATH 240A Ordinary Differential Equations: TR 9:30-10:50 in Olin 220
-* MATH 240B Ordinary Differential Equations: TR 13:00-14:20 in Olin 220
-
-I will also be supervising the following independent studies and honors courses:
-* MATH 480 Introduction to Quantum Computing
-* MATH 480 Bifurcation Theory of Burgers Equation
-* MATH 500 Distribution of Entanglement under a Universal Cloning Transformation
+During the Spring 2026 semester I will be teaching the following courses:
+* MATH 181C Calculus I: TR 8:00-9:20 in Olin 210
+* MATH 182B Calculus II: TR 13:00-14:20 in Olin 210
 
 ## Undergraduate Research Projects
 
 I have supervised a number of research projects with undergraduate students and I am always open to suggestions for projects. Here are some of the projects I've supervised in the past.
+
+### Entanglement Distribution of Universal Quantum Cloners (with J. Daughtry)
+The laws of quantum mechanics forbid us from making a perfect copy of a quantum bit (qubit, for short). One can, however, produce an imperfect copy of a qubit using quantum cloner. This project investigates how entanglement is distributed under the effect of a universal quantum cloner. That is, we consider the case where two qubits are entangled and one of them is then cloned. Our goal is to understand the entanglement of the the resulting qubits: the initial entangled qubit that wasn't clone along with the two clones of the second qubit. This honors thesis is available at [Entanglement Distribution of Universal Quantum Cloners](https://digitalcommons.wofford.edu/studentpubs/45/).
 
 ### Relativistic Walks and the Relativistic Heat Equation (with H. Wages)
 The heat equation that we learn about in a standard course in partial differential equations is nonrelativistic in the sense that the speed of propagation is infinite for the heat flow. In this project we looked at an attempt at formulating a relativistic heat equation that begins by considering random walks. (This was an Honors Thesis project at Wofford College.)
@@ -38,4 +35,3 @@ The multilinear correction algorithm can be seen to provide a way of constructin
 
 ### The Inverse Scattering Transform and Scale Invariant Lax Pairs (with J. Byrum)
 The inverse scattering transform provides a powerful way of solving certain nonlinear partial differential equations by converting them to linear problems. Lax pairs are one way of formulating the inverse scattering machinery. In this project we considered the problem of finding scale invariant Lax pairs. (This was part of an undergraduate research project that took place at Wake Forest University.)
-
