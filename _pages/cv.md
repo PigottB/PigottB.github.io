@@ -112,8 +112,15 @@ Service and Leadership
 ======
 * Ongoing: Reviewer for Math Reviews
 * Ongoing: Referee for various professional mathematics journals
+* Fall 2025 - Present: Chair, Department of Mathematics, Wofford College 
+* Spring 2023 - Present: Faculty Marshall, Wofford College, Opening Convocation and Commencement Weekend
 * Fall 2019 - Present: Benefits Committee, Wofford College
 * Fall 2017 - Present: Department of Mathematics Colloquium Organizer, Wofford College
+* February 2026: Co-Organizer for Joint Math-Physics Colloquium: "Implantable Brain-Computer Interfaces: Toward the Restoration of Communication and Mobility", by Dr. Leigh Hochberg (Brown University and Harvard Medical School), Wofford College (joint with C. Martsberger)
+* February 2025 Co-Organizer for Joint Math-Physics Colloquium: "Quantum Technology: Past, Present, and Future", by Dr. Jungsang Kim (Duke Quantum Center), Wofford College (joint with C. Martsberger)
+* Spring 2025: External Evaluator for Promotion to Professor, Teaching Stream, University of Toronto Mississauga
+* 2024-2025 Faculty Handbook Revision Committee, Wofford College
+* Spring 2024 Chair, Department of Mathematics, Wofford College (Sabbatical Replacement)
 * Fall 2019: Search Committee, Department of Mathematics, Wofford College
 * Sprint 2018 - Spring 2021: Calculus Task Force, Department of Mathematics, Wofford College (Chair)
 * Fall 2015 - Spring 2018: Member of the Library Committee, Wofford College (Chair from Fall 2017 - Spring 2018)
