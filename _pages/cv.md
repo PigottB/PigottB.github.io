@@ -19,7 +19,7 @@ Experience
   * Served on various college committees
   * Referee for various professional mathematics journals
   * Reviewer for Math Reviews
-* **September 2021 - Present: Advisory Board Member, Rosalyn.ai**
+* **September 2021 - September 2023: Advisory Board Member, Rosalyn.ai**
   * Provide advice on development of software used for remote testing and proctoring
 * **February 2022 - August 2022: QuForce Innovation Fellow**
   * Research on use of phase-covariant cloning to eavesdrop on BB84 protocol
@@ -59,7 +59,7 @@ Teaching
 * **2006 - 2011: University of Toronto**
 * **2009: Georgian College**
 
-For more details on the courses that I've taught, please see the list attached to my [curriculum vitae](/files/pigottcv.pdf).
+For more details on the courses that I've taught, I have compiled the following list of [Courses Taught](/files/courses_taught.pdf)
 
 Publications
 ======
@@ -128,4 +128,3 @@ Service and Leadership
 * Fall 2012 - Spring 2013: Member of the Wake Forest University Postdoctoral Association Board, Wake Forest University
 * Spring 2002 - Spring 2005: Mentor for the University of Toronto Mentorship Program, Department of Mathematics, University of Toronto
 * Fall 2001 - Spring 2002: Graduate Student Representative to the Department of Mathematics Graduate Planning Committee, Department of Mathematics, University of Toronto
-

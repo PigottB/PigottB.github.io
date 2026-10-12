@@ -5,11 +5,13 @@ title: "Teaching"
 
 I have taught many courses during my career. I have taken on different roles including the coordination of several large courses at the University of Toronto. These experiences occurred across a range of institutions: University of Toronto, Georgian College, Wake Forest University, and Wofford College. 
 
-## Spring 2025
+## Fall 2026
 
-During the Spring 2026 semester I will be teaching the following courses:
-* MATH 181C Calculus I: TR 8:00-9:20 in Olin 210
-* MATH 182B Calculus II: TR 13:00-14:20 in Olin 210
+During the Fall 2026 semester I will be teaching the following courses:
+* MATH 170A Preparation for Calculus: Functions Modeling Change: TR 13:00-14:20 in Olin 210
+* MATH 210A Multivariable Calculus: TR 9:30-10:50 in Olin 210
+
+For more details on the courses that I've taught, I have compiled the following list of [Courses Taught](/files/courses_taught.pdf).
 
 ## Undergraduate Research Projects
 
